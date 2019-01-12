@@ -1,0 +1,16 @@
+tvbs,http://60.250.69.26:8080/live/tvbs89.m3u8
+travel,http://60.250.69.26:8080/live/travel89.m3u8
+tvbs歡樂,http://60.250.69.26:8080/live/tvbsfun89.m3u8
+東森新聞,http://60.250.69.26:8080/live/ebcnews89.m3u8
+東森戲劇,http://60.250.69.26:8080/live/ebcdrama89.m3u8
+東森幼幼,http://60.250.69.26:8080/live/ebckid89.m3u8
+東森財經,http://60.250.69.26:8080/live/ebcfinace89.m3u8
+東森綜合,http://60.250.69.26:8080/live/ebc89.m3u8
+華視新聞,http://60.250.69.26:8080/live/ctinews89.m3u8
+中天綜合,http://60.250.69.26:8080/live/cti89.m3u8
+中天娛樂,http://60.250.69.26:8080/live/ctihappy89.m3u8
+緯來體育,http://60.250.69.26:8080/live/vlsports89.m3u8
+緯來日本,http://60.250.69.26:8080/live/vljp89.m3u8
+緯來綜合,http://60.250.69.26:8080/live/vl89.m3u8
+緯來娛樂,http://60.250.69.26:8080/live/vlhappy89.m3u8
+三立都會,http://60.250.69.26:8080/live/setcity89.m3u8
